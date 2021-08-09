@@ -28,5 +28,7 @@ Por otra parte, para evaluar la satisfacción del cliente se emplearán los twee
 
 Por otra parte, debido a que la extracción de tweest se realiza en tiempo real se creó una base de datos en la nube (mediante los recursos ofrecidos por Amazon WS) que almacernará nuestros datos mediante se iban extrayendo.
 
-# 3 Contenido del Git
+# 5. Fases del proyecto
+
+# 4 Contenido del Git
 
