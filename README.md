@@ -26,3 +26,5 @@ una serie temporal del volumen de ventas de cada producto durante los últimos 2
 
 Por otra parte, para evaluar la satisfacción del cliente se emplearán los tweets, que se extraeran mediante la API Tweepy . Los tweets de interés serán los relacionados con Walmart y serán seleccionados según la ubicación de la tienda de interés para el pronóstico.
 
+Por otra parte, debido a que la extracción de tweest se realiza en tiempo real se creó una base de datos en la nube (mediante los recursos ofrecidos por Amazon WS) que almacernará nuestros datos mediante se iban extrayendo.
+
