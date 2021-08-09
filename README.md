@@ -13,7 +13,7 @@ Este trabajo se dividirá en dos partes:
 
 **Esto con el objetivo de obtener una perspectiva más completa de las necesidades del cliente y permitir una mejor toma de decisiones.**
 
-##2. Planteamiento del problema
+#2. Planteamiento del problema
 
 **Datos**
 
