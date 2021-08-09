@@ -1,0 +1,6 @@
+Nombre de usuario maestro
+postgres
+Contraseña maestra
+81pCSgWcZ0f9xUkFj7ND
+Punto de enlace
+proyecto-topicos-estadistica.c5m9cicjlong.us-east-2.rds.amazonaws.com
