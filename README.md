@@ -43,3 +43,10 @@ Por otra parte, debido a que la extracción de tweest se realiza en tiempo real 
 
 # 4 Contenido del Git
 
+* Procesamiento de datos: Aquí se encuentra todo el procedimiento para dar un formato adecuado a la fuente de datos.
+* eda: Exploración y entendimiento de datos (Incluye Archivo Html para visualizar las gráficas mejor)
+* modelos_pronosticp/LGBM: Modelo de pronóstico de ventas con LGBM, incluye outputs del modelo
+* base_de_datos_nube: Código para la creación de la base de datos Postgresql en Amazon WS (RDS)
+* modelo_emociones: Modelo de clasificación de emociones según frases, incluye datos y outputs del modelo
+* modelo_emociones_walmart:  Aplicación del modelo de clasificación entrenado en los datos extraidos en tiempo real de Twitter.
+
