@@ -30,5 +30,16 @@ Por otra parte, debido a que la extracción de tweest se realiza en tiempo real 
 
 # 5. Fases del proyecto
 
+* Cronstrucción de la fuente de datos para analizar: realizar joins y colocar en el formato correcto para realizar los modelos de pronóstico
+* Exploración y entendiemiento de los datos
+* Revisión de literatura
+* Planteamiento de los modelos de pronóstico
+* Evaluación de los modelos
+* Construcción de la base de datos con los Tweets (en tiempo real y por ubicación geográfica) de los clientes de Walmart
+* Revisión de la literatura para modelos de clasificación de emociones
+* Planteamiento del modelo
+* Evaluación
+* Aplicación con los datos en tiempo real
+
 # 4 Contenido del Git
 
